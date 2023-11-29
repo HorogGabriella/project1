@@ -1,0 +1,38 @@
+{
+    "Bunny": {
+        "checkpoints": [
+            {
+                "steps": 499984,
+                "file_path": "results\\Run 8\\Bunny\\Bunny-499984.onnx",
+                "reward": 1.3799999997019767,
+                "creation_time": 1701288657.9853325,
+                "auxillary_file_paths": [
+                    "results\\Run 8\\Bunny\\Bunny-499984.pt"
+                ]
+            },
+            {
+                "steps": 689099,
+                "file_path": "results\\Run 8\\Bunny\\Bunny-689099.onnx",
+                "reward": 2.0,
+                "creation_time": 1701289037.4268572,
+                "auxillary_file_paths": [
+                    "results\\Run 8\\Bunny\\Bunny-689099.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 689099,
+            "file_path": "results\\Run 8\\Bunny.onnx",
+            "reward": 2.0,
+            "creation_time": 1701289037.4268572,
+            "auxillary_file_paths": [
+                "results\\Run 8\\Bunny\\Bunny-689099.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
